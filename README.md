@@ -5,16 +5,14 @@
 
 Animation techniques.
 
-#### 1_Multiplexer_Smooth
-
+- 1_Multiplexer_Smooth
 How to use the multiplexer + smooth to animate things.
 
 ### Arduino
 
 How to use Arduino microcontrollers with QC.
 
-#### Analog In
-
+- Analog In
 How to read the analog inputs of an Arduino. Requires the Kineme Serial IO plugin: http://kineme.net/release/SerialIO/10
 
 ### Audio Reactive
@@ -25,5 +23,5 @@ Audio reactive patches.
 
 Examples for the built in Face Tracking
 
-#### FaceTracking.qtz
+- FaceTracking
 
