@@ -1,27 +1,26 @@
-# Månsteri QC Stuff
-## A Collection of Various Experiments with Quartz Composer
+# Månsteri QC Stuff - A Collection of Various Experiments with Quartz Composer
 
-### Animation
+## Animation
 
 Animation techniques.
 
-- 1_Multiplexer_Smooth
+### Multiplexer Smooth
 How to use the multiplexer + smooth to animate things.
 
-### Arduino
+## Arduino
 
 How to use Arduino microcontrollers with QC.
 
-- Analog In
+### Analog In
 How to read the analog inputs of an Arduino. Requires the Kineme Serial IO plugin: http://kineme.net/release/SerialIO/10
 
-### Audio Reactive
+## Audio Reactive
 
 Audio reactive patches.
 
-### Face Tracking
+## Face Tracking
 
 Examples for the built in Face Tracking
 
-- FaceTracking
+### FaceTracking
 
